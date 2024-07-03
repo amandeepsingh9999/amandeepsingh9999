@@ -1,3 +1,5 @@
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM0dTlyOHN6bzk1bzA3N3RjcWVuMngzcmd3ZjF0cmR3d2FsOHh5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
     <img width="400" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgwOWJsb3I3ZzE1YTJpdjFjazNieXZneWQ4dXNvNHNud29vcmFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="coding">
